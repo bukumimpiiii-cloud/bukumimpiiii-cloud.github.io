@@ -1,0 +1,15 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wateroflife.app",
+      "sha256_cert_fingerprints": [
+        "35:D7:D3:71:FF:7D:D3:A0:D7:8F:34:4B:C3:F8:BC:53:12:4E:D6:3F:52:1D:29:40:CA:88:20:11:F0:51:C6:56"
+      ]
+    }
+  }
+]
